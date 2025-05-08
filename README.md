@@ -1,2 +1,3 @@
 # PII-LCA-2
-Impuesto: a financial consultancy website design and development files.
+Final Assignment: Creating a website using .html and .css along with JavaScript to recreate a UI Design that was previously made on Figma.
+A financial consultancy website design and development files.
